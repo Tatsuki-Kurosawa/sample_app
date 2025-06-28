@@ -15,6 +15,7 @@ gem "bootsnap",        "1.16.0", require: false
 gem "sqlite3",         "1.6.1"
 gem "concurrent-ruby", "1.3.4"
 gem "bootstrap-sass",  "3.4.1"
+gem "bcrypt",          "3.1.18"
 
 group :development, :test do
   gem 'reline', '0.5.10'
