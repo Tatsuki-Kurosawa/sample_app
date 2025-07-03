@@ -16,6 +16,9 @@ gem "sqlite3",         "1.6.1"
 gem "concurrent-ruby", "1.3.4"
 gem "bootstrap-sass",  "3.4.1"
 gem "bcrypt",          "3.1.18"
+gem "faker",           "2.21.0"
+gem "will_paginate",           "3.3.1"
+gem "bootstrap-will_paginate", "1.0.0"
 
 group :development, :test do
   gem 'reline', '0.5.10'
